@@ -1,0 +1,27 @@
+[PropertyInfo]
+A,int,false,false, , ,false,<デフォルト >
+AState,boolean,false,false, , ,false,<デフォルト >
+B,int,false,false, , ,false,<デフォルト >
+BState,boolean,false,false, , ,false,<デフォルト >
+Down,int,false,false, , ,false,<デフォルト >
+DownState,boolean,false,false, , ,false,<デフォルト >
+L,int,false,false, , ,false,<デフォルト >
+Left,int,false,false, , ,false,<デフォルト >
+LeftState,boolean,false,false, , ,false,<デフォルト >
+LState,boolean,false,false, , ,false,<デフォルト >
+MyRobot,Robot,false,false, , ,false,<デフォルト >
+R,int,false,false, , ,false,<デフォルト >
+Right,int,false,false, , ,false,<デフォルト >
+RightState,boolean,false,false, , ,false,<デフォルト >
+RState,boolean,false,false, , ,false,<デフォルト >
+Select,int,false,false, , ,false,<デフォルト >
+SelectState,boolean,false,false, , ,false,<デフォルト >
+Start,int,false,false, , ,false,<デフォルト >
+StartState,boolean,false,false, , ,false,<デフォルト >
+Up,int,false,false, , ,false,<デフォルト >
+UpState,boolean,false,false, , ,false,<デフォルト >
+[IconNames]
+
+
+
+
